@@ -1,0 +1,33 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    outline: 0;
+}
+
+
+#wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+#wrapper button, #wrapper input{
+    padding:15px;
+    text-align: center;
+}
+
+#poll{
+    display: flex; 
+    align-items: center;
+    justify-content: center;
+    flex-direction: column; 
+    color: blueviolet;
+}
+
+
+
+ 
+
+  
+  
